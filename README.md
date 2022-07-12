@@ -1,1 +1,1 @@
-Pengerjaan Kelas Fron-End
+Pengerjaan Kelas Front-End
